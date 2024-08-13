@@ -1,0 +1,33 @@
+th, td {
+    padding: 10px;
+}
+th {
+    background-color: blue;
+}
+
+#Cafe01 {
+    background-color: blue;
+}
+
+#Cafe02 {
+    background-color: blue;
+}
+
+#Cafe03 {
+    background-color: blue;
+}
+
+#Cafe04 {
+    background-color: blue;
+}
+
+#Cafe05 {
+    background-color: blue;
+}
+
+.rodape{
+    
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
